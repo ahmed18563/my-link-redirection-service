@@ -59,7 +59,7 @@ function getLinkStatus(expirationDate) {
 // API Functions
 async function fetchLinks() {
     try {
-        const response = await fetch(SCRIPT_URL, {
+        const response = await fetch(https://script.google.com/macros/s/AKfycbxXmHcADu4nRgxj4isEK_5X3l5BU4z8AKvkKfNGAn0JGccUlw2Mvkq33xqQVfpfoRw9/exec, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
