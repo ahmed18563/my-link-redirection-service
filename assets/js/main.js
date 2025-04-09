@@ -1,5 +1,5 @@
 // Configuration
-const SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_URL'; // You'll update this with your actual Apps Script URL
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxXmHcADu4nRgxj4isEK_5X3l5BU4z8AKvkKfNGAn0JGccUlw2Mvkq33xqQVfpfoRw9/exec'; // You'll update this with your actual Apps Script URL
 const BASE_URL = window.location.origin + window.location.pathname.replace('index.html', '');
 
 // DOM Elements
